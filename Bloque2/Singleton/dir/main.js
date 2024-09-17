@@ -1,0 +1,15 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const Database_1 = require("./Database");
+const EmailNotification_1 = require("./EmailNotification");
+const NotificationManager_1 = require("./NotificationManager");
+const PhoneNotification_1 = require("./PhoneNotification");
+const notificationManager = NotificationManager_1.NotificationManager.getInstance();
+const notificationManager2 = NotificationManager_1.NotificationManager.getInstance();
+const dbNotification = new Database_1.DatabaseNotification(1);
+const emailNotification = new EmailNotification_1.EmailNotification('juliogm2003@hotmail.com');
+const phoneNotification = new PhoneNotification_1.PhoneNotification('9211744806');
+notificationManager.sendNotification('new user registred', dbNotification);
+notificationManager2.sendNotification('confirm your email ', emailNotification);
+notificationManager.sendNotification('your code access is 9558', phoneNotification);
+console.log('History ', notificationManager.getNotificationHistory());

@@ -1,0 +1,14 @@
+c:\Users\julio\Documents\AbstractFactory\MiProyecto\bin\Debug\net8.0\MiProyecto.exe
+c:\Users\julio\Documents\AbstractFactory\MiProyecto\bin\Debug\net8.0\MiProyecto.deps.json
+c:\Users\julio\Documents\AbstractFactory\MiProyecto\bin\Debug\net8.0\MiProyecto.runtimeconfig.json
+c:\Users\julio\Documents\AbstractFactory\MiProyecto\bin\Debug\net8.0\MiProyecto.dll
+c:\Users\julio\Documents\AbstractFactory\MiProyecto\bin\Debug\net8.0\MiProyecto.pdb
+c:\Users\julio\Documents\AbstractFactory\MiProyecto\obj\Debug\net8.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\julio\Documents\AbstractFactory\MiProyecto\obj\Debug\net8.0\MiProyecto.AssemblyInfoInputs.cache
+c:\Users\julio\Documents\AbstractFactory\MiProyecto\obj\Debug\net8.0\MiProyecto.AssemblyInfo.cs
+c:\Users\julio\Documents\AbstractFactory\MiProyecto\obj\Debug\net8.0\MiProyecto.csproj.CoreCompileInputs.cache
+c:\Users\julio\Documents\AbstractFactory\MiProyecto\obj\Debug\net8.0\MiProyecto.dll
+c:\Users\julio\Documents\AbstractFactory\MiProyecto\obj\Debug\net8.0\refint\MiProyecto.dll
+c:\Users\julio\Documents\AbstractFactory\MiProyecto\obj\Debug\net8.0\MiProyecto.pdb
+c:\Users\julio\Documents\AbstractFactory\MiProyecto\obj\Debug\net8.0\MiProyecto.genruntimeconfig.cache
+c:\Users\julio\Documents\AbstractFactory\MiProyecto\obj\Debug\net8.0\ref\MiProyecto.dll
