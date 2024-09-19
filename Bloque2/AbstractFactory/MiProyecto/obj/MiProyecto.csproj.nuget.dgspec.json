@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julio\\Documents\\AbstractFactory\\MiProyecto\\MiProyecto.csproj": {}
+    "C:\\Users\\zS22017037\\Documents\\TecnologiasConstruccion\\Bloque2\\AbstractFactory\\MiProyecto\\MiProyecto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julio\\Documents\\AbstractFactory\\MiProyecto\\MiProyecto.csproj": {
+    "C:\\Users\\zS22017037\\Documents\\TecnologiasConstruccion\\Bloque2\\AbstractFactory\\MiProyecto\\MiProyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julio\\Documents\\AbstractFactory\\MiProyecto\\MiProyecto.csproj",
+        "projectUniqueName": "C:\\Users\\zS22017037\\Documents\\TecnologiasConstruccion\\Bloque2\\AbstractFactory\\MiProyecto\\MiProyecto.csproj",
         "projectName": "MiProyecto",
-        "projectPath": "C:\\Users\\julio\\Documents\\AbstractFactory\\MiProyecto\\MiProyecto.csproj",
-        "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julio\\Documents\\AbstractFactory\\MiProyecto\\obj\\",
+        "projectPath": "C:\\Users\\zS22017037\\Documents\\TecnologiasConstruccion\\Bloque2\\AbstractFactory\\MiProyecto\\MiProyecto.csproj",
+        "packagesPath": "C:\\Users\\zS22017037\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zS22017037\\Documents\\TecnologiasConstruccion\\Bloque2\\AbstractFactory\\MiProyecto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\zS22017037\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
