@@ -37,6 +37,10 @@
 - Mediator
 - Chain of responsibility
 - Observer
-Strategy
-Command
-State
+- Strategy
+- Command
+- State
+- Visitor
+- Iterator
+- Interpreter
+
